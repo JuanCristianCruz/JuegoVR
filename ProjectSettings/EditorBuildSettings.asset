@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pure Poly/Free Low Poly Nature Pack/Scenes/Demo_Terrain.unity
+    guid: d2684f519e9bd994889e53af67337f6e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: be3c36ee243ba5a4b8590cd712be2041, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: daa557c4de1a7484a97b28d0448165a2, type: 2}
